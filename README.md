@@ -1,4 +1,4 @@
-### Привет красавица!👋
+### Привет красавица! 🌟
 
 <!--
 **sofifi333/sofifi333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Some **super** fun facts about me:</h2>
-<b></b>
+<h2>Some <b>super</b> fun facts about me:</h2>
+<body>
+<li>I'm currently working on a NLP project🌐</li>
+<li>I'm currently learning more about VM, Data Science, DS, & CALC 2 (rip) 📖</li>
+<li>I taught myself to ski three years ago ⛷️</li>
+</body>
+<h3><b>Looking to collaborate on full stack applications!</b>></h3>
+<p>Discord: <b>@sofifi333</b></p>
+<p>Пока👋</p>
+
