@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <li>I'm currently learning more about VM, Data Science, DS, & CALC 2 (rip) 📖</li>
 <li>I taught myself to ski three years ago ⛷️</li>
 </body>
-<h3><b>Looking to collaborate on full stack applications!</b>></h3>
+<h3><b>Looking to collaborate on full stack applications!</b></h3>
 <p>Discord: <b>@sofifi333</b></p>
 <p>Пока👋</p>
 
