@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </body>
 <h3><b>Looking to collaborate on full stack applications!</b></h3>
 <p>Discord: <b>@sofifi333</b></p>
-<p>Пока👋</p>
+<h3>Пока👋</h3>
 
