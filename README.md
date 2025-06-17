@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 <h2>Some <b>super</b> fun facts about me:</h2>
 <body>
-<li>I'm currently learning more about VM & DS 📖</li>
-<li>I taught myself to ski three years ago ⛷️</li>
+<li>currently debugging my life</li>
 </body>
-<h3><b>Looking to collaborate on full stack applications!</b></h3>
 <p>Discord: <b>@sofifi333</b></p>
 <h3>Пока👋</h3>
 
