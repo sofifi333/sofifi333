@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <body>
 <p>I would tell you a joke about recursion, but you'd have to hear it again.</p>
 </body>
-<li>Discord: <b>@sofifi333</b></li>
+<p>Discord: <b>@sofifi333</b></p>
 <h3>Пока👋</h3>
 
