@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <body>
 <li>currently debugging my life</li>
 </body>
-<p>Discord: <b>@sofifi333</b></p>
+<li>Discord: <b>@sofifi333</b></li>
 <h3>Пока👋</h3>
 
