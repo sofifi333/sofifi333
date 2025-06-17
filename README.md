@@ -1,4 +1,4 @@
-### Привет! 🌟
+<h2>Привет! 🌟<\h2>
 
 <!--
 **sofifi333/sofifi333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <p>I would tell you a joke about recursion, but you'd have to hear it again.</p>
 </body>
 <p>Discord: <b>@sofifi333</b></p>
-<h3>Пока👋</h3>
+<h2>Пока👋</h2>
 
