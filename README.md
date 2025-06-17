@@ -1,4 +1,4 @@
-<h2>Привет! 🌟<\h2>
+## Привет! 🌟
 
 <!--
 **sofifi333/sofifi333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
