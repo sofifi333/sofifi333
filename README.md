@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <p>I would tell you a joke about recursion, but you'd have to hear it again.</p>
 </body>
 <p>Discord: <b>@sofifi333</b></p>
+<p>[Follow Me On X](https://x.com/444s0fia))</p>
 <h2>Пока👋</h2>
 
